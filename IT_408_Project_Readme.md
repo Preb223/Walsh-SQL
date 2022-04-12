@@ -1,14 +1,10 @@
-MCC-C++
-MCC - C++ Programming
+Walsh-SQL
+Waslh College - SQL Programming
 
-PA_03_Prebeck
+IT_408_Project
 
-Programming Assignment 03
-
-"Shipping Cost Calculator"
-
+"Top 100 Movie Database"
 Author: Blake Prebeck
+Date: 2/15/2022
 
-Date: 11/05/2021
-
-This program calculates shipping costs based on inputs. Program takes inputs of: item to ship, destination, fragility and order cost. It then calculates the total cost to ship.
+A database of the "top 100 movies of all time" based on IMDB.  Submission for class final.
